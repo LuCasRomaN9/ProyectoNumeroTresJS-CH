@@ -1,0 +1,167 @@
+  [
+    {
+        "id": "Nike-01" ,
+        "titulo": "Nike 01" ,
+        "imagen": "./imgs/Nike1.jpg",
+        "categoria": {
+            "nombre": "Nikes",
+            "id": "todos"
+        },
+        "precio": 45000
+    },
+
+    {"id": "Nike-02" ,
+    "titulo": "Nike 02" ,
+    "imagen": "./imgs/Nike2.jpg",
+    "categoria": {
+        "nombre": "Nikes",
+        "id": "todos"
+    },
+    "precio": 45000
+       
+    },
+    {
+        "id": "Nike-03" ,
+        "titulo": "Nike 03" ,
+        "imagen": "./imgs/Nike3.jpg",
+        "categoria": {
+            "nombre": "Nikes",
+            "id": "todos"
+        },
+        "precio": 42000
+    },
+    {
+        "id": "Nike-04" ,
+        "titulo": "Nike 04" ,
+        "imagen": "./imgs/Nike4.jpg",
+        "categoria": {
+            "nombre": "Nikes",
+            "id": "todos"
+        },
+        "precio": 47000
+    },
+
+
+    {
+        "id": "Adidas-01",
+        "titulo": "Adidas 01",
+         "imagen":"./imgs/Adidas1.jpg",
+        "categoria": {
+           " nombre ":"Adidas",
+           " id ": "Adidas"
+        },
+        "precio": 70000
+    },
+    {
+        "id": "Adidas-02",
+        "titulo": "Adidas 02",
+         "imagen":"./imgs/Adidas2.jpg",
+        "categoria": {
+           " nombre ":"Adidas",
+           " id ": "Adidas"
+        },
+        "precio": 42000
+    },
+    {
+      
+        "id": "Adidas-03",
+        "titulo": "Adidas 03",
+         "imagen":"./imgs/Adidas3.jpg",
+        "categoria": {
+           " nombre ":"Adidas",
+           " id ": "Adidas"
+        },
+        "precio": 42000
+    },
+    {
+        
+        "id": "Adidas-04",
+        "titulo": "Adidas 04",
+         "imagen":"./imgs/Adidas4.jpg",
+        "categoria": {
+           " nombre ":"Adidas",
+           " id ": "Adidas"
+        },
+        "precio": 34000
+    },
+   
+    {
+        "id": "Puma-01",
+        "titulo": "Puma 01",
+        "imagen": "./imgs/Puma1.jpg",
+        "categoria": {
+           "nombre" : "Pumas",
+            "id": "Pumas"
+        },
+        "precio": 22000
+    },
+    {"id": "Puma-02",
+    "titulo": "Puma 02",
+    "imagen": "./imgs/Puma2.jpg",
+    "categoria": {
+       "nombre" : "Pumas",
+        "id": "Pumas"
+    },
+    "precio": 74000
+    },{
+        "id": "Puma-03",
+        "titulo": "Puma 03",
+        "imagen": "./imgs/Puma3.jpg",
+        "categoria": {
+           "nombre" : "Pumas",
+            "id": "Pumas"
+        },
+        "precio": 54000
+    },{
+        "id": "Puma-04",
+        "titulo": "Puma 04",
+        "imagen": "./imgs/Puma4.jpg",
+        "categoria": {
+           "nombre" : "Pumas",
+            "id": "Pumas"
+        },
+        "precio": 45000
+    },
+    
+    {
+       "id" : "Converse-01",
+       "titulo" : "Converse 01",
+        "imagen": "./imgs/Converse1.jpg",
+        "categoria": {
+          "nombre"  : "Converse",
+           "id" : "Converse"
+        },
+        "precio": 33000
+    },
+    {
+        "id" : "Converse-02",
+        "titulo" : "Converse 02",
+         "imagen": "./imgs/Converse2.jpg",
+         "categoria": {
+           "nombre"  : "Converse",
+            "id" : "Converse"
+         },
+         "precio": 33000
+    },
+    {
+        "id" : "Converse-03",
+       "titulo" : "Converse 03",
+        "imagen": "./imgs/Converse3.jpg",
+        "categoria": {
+          "nombre"  : "Converse",
+           "id" : "Converse"
+        },
+        "precio": 33000
+    },
+    {
+        "id" : "Converse-04",
+        "titulo" : "Converse 04",
+         "imagen": "./imgs/Converse4.jpg",
+         "categoria": {
+           "nombre"  : "Converse",
+            "id" : "Converse"
+         },
+         "precio": 33000
+    }
+    
+]
