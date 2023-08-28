@@ -1,0 +1,90 @@
+  [
+    {
+        "id": "Nike-01" ,
+        "titulo": "Nike 01" ,
+        "imagen": "./imgs/Nike1.jpg",
+        "categoria": {
+            "nombre": "Nikes",
+            "id": "todos"
+        },
+        "precio": 45000
+    },
+
+    {"id": "Nike-02" ,
+    "titulo": "Nike 02" ,
+    "imagen": "./imgs/Nike2.jpg",
+    "categoria": {
+        "nombre": "Nikes",
+        "id": "todos"
+    },
+    "precio": 45000
+       
+    },
+    {
+        "id": "Nike-03" ,
+        "titulo": "Nike 03" ,
+        "imagen": "./imgs/Nike3.jpg",
+        "categoria": {
+            "nombre": "Nikes",
+            "id": "todos"
+        },
+        "precio": 42000
+    },
+    {
+        "id": "Nike-04" ,
+        "titulo": "Nike 04" ,
+        "imagen": "./imgs/Nike4.jpg",
+        "categoria": {
+            "nombre": "Nikes",
+            "id": "todos"
+        },
+        "precio": 47000
+    },
+
+
+    {
+        "id": "Adidas-01",
+        "titulo": "Adidas 01",
+         "imagen":"./imgs/Adidas1.jpg",
+        "categoria": {
+           " nombre ":"Adidas",
+           " id ": "Adidas"
+        },
+        "precio": 70000
+    },
+    {
+        "id": "Adidas-02",
+        "titulo": "Adidas 02",
+         "imagen":"./imgs/Adidas2.jpg",
+        "categoria": {
+           " nombre ":"Adidas",
+           " id ": "Adidas"
+        },
+        "precio": 42000
+    },
+    {
+      
+        "id": "Adidas-03",
+        "titulo": "Adidas 03",
+         "imagen":"./imgs/Adidas3.jpg",
+        "categoria": {
+           " nombre ":"Adidas",
+           " id ": "Adidas"
+        },
+        "precio": 42000
+    },
+    {
+        
+        "id": "Adidas-04",
+        "titulo": "Adidas 04",
+         "imagen":"./imgs/Adidas4.jpg",
+        "categoria": {
+           " nombre ":"Adidas",
+           " id ": "Adidas"
+        },
+        "precio": 34000
+    }
+    
+    
+
+]
